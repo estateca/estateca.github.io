@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://estateca.github.io/sitemap.html.gz
+Sitemap: https://estateca.github.io/app/sitemap.html.gz
+Sitemap: https://estateca.github.io/assets/sitemap.html.gz
+Sitemap: https://estateca.github.io/css/sitemap.html.gz
+Sitemap: https://estateca.github.io/includes/sitemap.html.gz
+Sitemap: https://estateca.github.io/item/sitemap.html.gz
+Sitemap: https://estateca.github.io/src/sitemap.html.gz
